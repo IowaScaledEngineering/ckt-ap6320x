@@ -9,7 +9,7 @@ Grid[5.00mil 0.0000 0.0000 0]
 PolyArea[200000000.000000]
 Thermal[0.500000]
 DRC[6.00mil 8.00mil 6.00mil 6.00mil 12.00mil 7.00mil]
-Flags("showdrc,nameonpcb,clearnew,snappin")
+Flags("showdrc,nameonpcb,clearnew")
 Groups("1,c:2,s:3")
 Styles["Signal,10.00mil,26.00mil,12.00mil,10.00mil:Power,25.00mil,80.00mil,50.00mil,10.00mil:Fat,40.00mil,60.00mil,35.00mil,10.00mil:Skinny,6.00mil,24.02mil,11.81mil,6.00mil"]
 
@@ -801,11 +801,11 @@ Via[410.00mil 272.00mil 26.00mil 20.00mil 0.0000 12.00mil "" "thermal(1S)"]
 Via[425.00mil 140.00mil 26.00mil 20.00mil 0.0000 12.00mil "" "thermal(1S)"]
 Via[455.00mil 140.00mil 26.00mil 20.00mil 0.0000 12.00mil "" "thermal(1S)"]
 Via[80.00mil 165.00mil 80.00mil 20.00mil 86.00mil 50.00mil "" "thermal(0S)"]
-Via[80.00mil 300.00mil 80.00mil 20.00mil 86.00mil 50.00mil "" "thermal(1S)"]
 Via[80.00mil 435.00mil 80.00mil 20.00mil 86.00mil 50.00mil "" "thermal(1S)"]
 Via[620.00mil 165.00mil 80.00mil 20.00mil 86.00mil 50.00mil "" "thermal(0S)"]
 Via[620.00mil 300.00mil 80.00mil 20.00mil 86.00mil 50.00mil "" ""]
 Via[620.00mil 435.00mil 80.00mil 20.00mil 86.00mil 50.00mil "" "thermal(1S)"]
+Via[80.00mil 300.00mil 80.00mil 20.00mil 86.00mil 50.00mil "" "thermal(0S,1S)"]
 
 Element["onsolder" "pad_50x100" "G" "unknown" 65.00mil 555.00mil 95.00mil -30.00mil 2 100 "onsolder"]
 (
@@ -936,6 +936,10 @@ Layer(1 "component" "copper")
 	(
 		[500.00mil 205.00mil] [620.00mil 205.00mil] [620.00mil 125.00mil] [500.00mil 125.00mil] 
 	)
+	Polygon("")
+	(
+		[80.00mil 260.00mil] [165.00mil 260.00mil] [165.00mil 340.00mil] [80.00mil 340.00mil] 
+	)
 )
 Layer(2 "solder" "copper")
 (
@@ -962,10 +966,6 @@ Layer(2 "solder" "copper")
 	Polygon("clearpoly")
 	(
 		[125.00mil 475.00mil] [575.00mil 475.00mil] [575.00mil 125.00mil] [125.00mil 125.00mil] 
-	)
-	Polygon("clearpoly")
-	(
-		[155.00mil 340.00mil] [80.00mil 340.00mil] [80.00mil 260.00mil] [155.00mil 260.00mil] 
 	)
 )
 Layer(3 "outline" "outline")
