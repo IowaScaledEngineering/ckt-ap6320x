@@ -1,0 +1,4 @@
+schematics ckt-ap6320x.sch
+output-name ../pcb/ckt-ap6320x
+skip-m4
+elements-dir ../../../footprints
