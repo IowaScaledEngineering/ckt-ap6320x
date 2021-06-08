@@ -982,6 +982,10 @@ Layer(5 "top silk" "silk")
 	Line[80.00mil 500.00mil 80.00mil 100.00mil 10.00mil 20.00mil "clearline"]
 	Text[490.00mil 275.00mil 0 54 "U" "clearline"]
 	Text[490.00mil 310.00mil 0 53 "1" "clearline"]
+	Polygon("clearpoly")
+	(
+		[575.00mil 355.00mil] [595.00mil 355.00mil] [595.00mil 375.00mil] [575.00mil 375.00mil] 
+	)
 )
 NetList()
 (
