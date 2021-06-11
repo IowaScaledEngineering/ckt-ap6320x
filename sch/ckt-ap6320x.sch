@@ -124,7 +124,7 @@ device=HEADER2
 T 50200 45500 5 10 1 1 0 4 1
 refdes=OUT
 T 49700 45300 5 10 0 0 0 0 1
-footprint=pad_50x100
+footprint=castellate_50mil
 }
 C 41500 45300 1 0 1 header1-1.sym
 {
@@ -133,7 +133,7 @@ device=HEADER2
 T 41000 45500 5 10 1 1 0 4 1
 refdes=IN
 T 41500 45300 5 10 0 0 0 0 1
-footprint=pad_50x100
+footprint=castellate_50mil
 }
 C 41500 44400 1 0 1 header1-1.sym
 {
@@ -142,14 +142,36 @@ device=HEADER2
 T 41000 44600 5 10 1 1 0 4 1
 refdes=EN
 T 41500 44400 5 10 0 0 0 0 1
-footprint=pad_50x100
+footprint=castellate_50mil
 }
 C 41500 43400 1 0 1 header1-1.sym
 {
 T 40500 44050 5 10 0 0 0 6 1
 device=HEADER2
 T 41000 43600 5 10 1 1 0 4 1
-refdes=G
+refdes=GND
 T 41500 43400 5 10 0 0 0 0 1
-footprint=pad_50x100
+footprint=castellate_50mil
 }
+N 49700 46100 49500 46100 4
+N 49500 46100 49500 45500 4
+C 49700 45900 1 0 0 header1-1.sym
+{
+T 50700 46550 5 10 0 0 0 0 1
+device=HEADER2
+T 50200 46100 5 10 1 1 0 4 1
+refdes=OUT2
+T 49700 45900 5 10 0 0 0 0 1
+footprint=castellate_50mil
+}
+C 41500 42800 1 0 1 header1-1.sym
+{
+T 40500 43450 5 10 0 0 0 6 1
+device=HEADER2
+T 41000 43000 5 10 1 1 0 4 1
+refdes=GND2
+T 41500 42800 5 10 0 0 0 0 1
+footprint=castellate_50mil
+}
+N 41500 43000 41700 43000 4
+N 41700 43000 41700 43600 4
