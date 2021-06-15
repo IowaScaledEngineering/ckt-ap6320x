@@ -982,6 +982,7 @@ Layer(4 "bottom silk" "silk")
 )
 Layer(5 "top silk" "silk")
 (
+	Arc[620.00mil 435.00mil 55.00mil 55.00mil 10.00mil 20.00mil 0 75 "clearline"]
 	Text[490.00mil 275.00mil 0 54 "U" "clearline"]
 	Text[490.00mil 310.00mil 0 53 "1" "clearline"]
 	Polygon("clearpoly")
