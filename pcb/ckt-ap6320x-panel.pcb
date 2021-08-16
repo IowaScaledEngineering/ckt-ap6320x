@@ -974,39 +974,45 @@ Element["" "0805" "C1" "10uF" 490.00mil 190.00mil -10.00mil -70.00mil 0 54 ""]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 435.00mil -190.00mil 30.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 435.00mil 0.0000 80.00mil 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 300.00mil 55.00mil 25.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 300.00mil 0.0000 0.0000 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 435.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 435.00mil 175.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 300.00mil -115.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 300.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 165.00mil -105.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 165.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 165.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 165.00mil 160.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
@@ -1084,39 +1090,45 @@ Element["" "0805" "C1" "10uF" 490.00mil 690.00mil -10.00mil -70.00mil 0 54 ""]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 935.00mil -190.00mil 30.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 935.00mil 0.0000 80.00mil 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 800.00mil 55.00mil 25.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 800.00mil 0.0000 0.0000 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 935.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 935.00mil 175.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 800.00mil -115.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 800.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 665.00mil -105.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 665.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 665.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 665.00mil 160.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
@@ -1194,39 +1206,45 @@ Element["" "0805" "C1" "10uF" 490.00mil 1190.00mil -10.00mil -70.00mil 0 54 ""]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 1435.00mil -190.00mil 30.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 1435.00mil 0.0000 80.00mil 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 1300.00mil 55.00mil 25.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 1300.00mil 0.0000 0.0000 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 1435.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 1435.00mil 175.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 1300.00mil -115.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 1300.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 1165.00mil -105.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 1165.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 1165.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 1165.00mil 160.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
@@ -1304,39 +1322,45 @@ Element["" "0805" "C1" "10uF" 490.00mil 1690.00mil -10.00mil -70.00mil 0 54 ""]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 1935.00mil -190.00mil 30.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 1935.00mil 0.0000 80.00mil 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 1800.00mil 55.00mil 25.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 1800.00mil 0.0000 0.0000 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 1935.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 1935.00mil 175.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 1800.00mil -115.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 1800.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 1665.00mil -105.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 1665.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 1665.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 1665.00mil 160.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
@@ -1414,39 +1438,45 @@ Element["" "0805" "C1" "10uF" 490.00mil 2190.00mil -10.00mil -70.00mil 0 54 ""]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 2435.00mil -190.00mil 30.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 2435.00mil 0.0000 80.00mil 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 2300.00mil 55.00mil 25.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 2300.00mil 0.0000 0.0000 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 2435.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 2435.00mil 175.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 2300.00mil -115.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 2300.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 2165.00mil -105.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 2165.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 2165.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 2165.00mil 160.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
@@ -1524,39 +1554,45 @@ Element["" "0805" "C1" "10uF" 490.00mil 2690.00mil -10.00mil -70.00mil 0 54 ""]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 2935.00mil -190.00mil 30.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 2935.00mil 0.0000 80.00mil 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 2800.00mil 55.00mil 25.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 2800.00mil 0.0000 0.0000 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 2935.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 2935.00mil 175.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 2800.00mil -115.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 2800.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 2665.00mil -105.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 2665.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 2665.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 2665.00mil 160.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
@@ -1634,39 +1670,45 @@ Element["" "0805" "C1" "10uF" 490.00mil 3190.00mil -10.00mil -70.00mil 0 54 ""]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 3435.00mil -190.00mil 30.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 3435.00mil 0.0000 80.00mil 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 3300.00mil 55.00mil 25.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 3300.00mil 0.0000 0.0000 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 3435.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 3435.00mil 175.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 3300.00mil -115.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 3300.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 3165.00mil -105.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 3165.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 3165.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 3165.00mil 160.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
@@ -1744,39 +1786,45 @@ Element["" "0805" "C1" "10uF" 490.00mil 3690.00mil -10.00mil -70.00mil 0 54 ""]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 3935.00mil -190.00mil 30.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 3935.00mil 0.0000 80.00mil 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 3800.00mil 55.00mil 25.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 3800.00mil 0.0000 0.0000 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 3935.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 3935.00mil 175.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 3800.00mil -115.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 3800.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 3665.00mil -105.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 3665.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 3665.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 3665.00mil 160.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
@@ -1854,39 +1902,45 @@ Element["" "0805" "C1" "10uF" 490.00mil 4190.00mil -10.00mil -70.00mil 0 54 ""]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 4435.00mil -190.00mil 30.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 4435.00mil 0.0000 80.00mil 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 4300.00mil 55.00mil 25.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 4300.00mil 0.0000 0.0000 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 4435.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 4435.00mil 175.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 4300.00mil -115.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 4300.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 4165.00mil -105.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 4165.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 4165.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 4165.00mil 160.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
@@ -1964,39 +2018,45 @@ Element["" "0805" "C1" "10uF" 490.00mil 4690.00mil -10.00mil -70.00mil 0 54 ""]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 4935.00mil -190.00mil 30.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "GND2" "unknown" 620.00mil 4935.00mil 0.0000 80.00mil 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 4800.00mil 55.00mil 25.00mil 0 100 "onsolder"]
+Element["hidename,onsolder" "castellate_50mil" "OUT2" "unknown" 80.00mil 4800.00mil 0.0000 0.0000 0 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 4935.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "GND" "unknown" 80.00mil 4935.00mil 175.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(1S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 0.0000 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 4800.00mil -115.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "EN" "unknown" 620.00mil 4800.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" ""]
+	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 4665.00mil -105.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "IN" "unknown" 620.00mil 4665.00mil -75.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[-30.00mil -10.00mil -30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 
-Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 4665.00mil 55.00mil 30.00mil 0 100 "onsolder"]
+Element["onsolder" "castellate_50mil" "OUT" "unknown" 80.00mil 4665.00mil 160.00mil -30.00mil 2 100 "onsolder"]
 (
-	Pin[0.0000 0.0000 80.00mil 20.00mil 86.00mil 50.00mil "1" "1" "thermal(0S)"]
+	Pin[0.0000 0.0000 80.00mil 0.0000 86.00mil 50.00mil "1" "1" "edge2"]
+	Pad[30.00mil -10.00mil 30.00mil 10.00mil 60.00mil 10.00mil 66.00mil "1" "1" "onsolder,square"]
 
 	)
 Layer(1 "component" "copper")
@@ -2446,10 +2506,6 @@ Layer(2 "solder" "copper")
 	Line[170.00mil 4955.00mil 170.00mil 4885.00mil 20.00mil 20.00mil ""]
 	Polygon("clearpoly")
 	(
-		[155.00mil 475.00mil] [80.00mil 475.00mil] [80.00mil 395.00mil] [155.00mil 395.00mil] 
-	)
-	Polygon("clearpoly")
-	(
 		[555.00mil 475.00mil] [620.00mil 475.00mil] [620.00mil 395.00mil] [555.00mil 395.00mil] 
 	)
 	Polygon("clearpoly")
@@ -2458,7 +2514,7 @@ Layer(2 "solder" "copper")
 	)
 	Polygon("clearpoly")
 	(
-		[155.00mil 975.00mil] [80.00mil 975.00mil] [80.00mil 895.00mil] [155.00mil 895.00mil] 
+		[155.00mil 475.00mil] [80.00mil 475.00mil] [80.00mil 395.00mil] [155.00mil 395.00mil] 
 	)
 	Polygon("clearpoly")
 	(
@@ -2470,7 +2526,7 @@ Layer(2 "solder" "copper")
 	)
 	Polygon("clearpoly")
 	(
-		[155.00mil 1475.00mil] [80.00mil 1475.00mil] [80.00mil 1395.00mil] [155.00mil 1395.00mil] 
+		[155.00mil 975.00mil] [80.00mil 975.00mil] [80.00mil 895.00mil] [155.00mil 895.00mil] 
 	)
 	Polygon("clearpoly")
 	(
@@ -2482,7 +2538,7 @@ Layer(2 "solder" "copper")
 	)
 	Polygon("clearpoly")
 	(
-		[155.00mil 1975.00mil] [80.00mil 1975.00mil] [80.00mil 1895.00mil] [155.00mil 1895.00mil] 
+		[155.00mil 1475.00mil] [80.00mil 1475.00mil] [80.00mil 1395.00mil] [155.00mil 1395.00mil] 
 	)
 	Polygon("clearpoly")
 	(
@@ -2494,7 +2550,7 @@ Layer(2 "solder" "copper")
 	)
 	Polygon("clearpoly")
 	(
-		[155.00mil 2475.00mil] [80.00mil 2475.00mil] [80.00mil 2395.00mil] [155.00mil 2395.00mil] 
+		[155.00mil 1975.00mil] [80.00mil 1975.00mil] [80.00mil 1895.00mil] [155.00mil 1895.00mil] 
 	)
 	Polygon("clearpoly")
 	(
@@ -2506,7 +2562,7 @@ Layer(2 "solder" "copper")
 	)
 	Polygon("clearpoly")
 	(
-		[155.00mil 2975.00mil] [80.00mil 2975.00mil] [80.00mil 2895.00mil] [155.00mil 2895.00mil] 
+		[155.00mil 2475.00mil] [80.00mil 2475.00mil] [80.00mil 2395.00mil] [155.00mil 2395.00mil] 
 	)
 	Polygon("clearpoly")
 	(
@@ -2518,7 +2574,7 @@ Layer(2 "solder" "copper")
 	)
 	Polygon("clearpoly")
 	(
-		[155.00mil 3475.00mil] [80.00mil 3475.00mil] [80.00mil 3395.00mil] [155.00mil 3395.00mil] 
+		[155.00mil 2975.00mil] [80.00mil 2975.00mil] [80.00mil 2895.00mil] [155.00mil 2895.00mil] 
 	)
 	Polygon("clearpoly")
 	(
@@ -2530,7 +2586,7 @@ Layer(2 "solder" "copper")
 	)
 	Polygon("clearpoly")
 	(
-		[155.00mil 3975.00mil] [80.00mil 3975.00mil] [80.00mil 3895.00mil] [155.00mil 3895.00mil] 
+		[155.00mil 3475.00mil] [80.00mil 3475.00mil] [80.00mil 3395.00mil] [155.00mil 3395.00mil] 
 	)
 	Polygon("clearpoly")
 	(
@@ -2542,7 +2598,7 @@ Layer(2 "solder" "copper")
 	)
 	Polygon("clearpoly")
 	(
-		[155.00mil 4475.00mil] [80.00mil 4475.00mil] [80.00mil 4395.00mil] [155.00mil 4395.00mil] 
+		[155.00mil 3975.00mil] [80.00mil 3975.00mil] [80.00mil 3895.00mil] [155.00mil 3895.00mil] 
 	)
 	Polygon("clearpoly")
 	(
@@ -2554,7 +2610,7 @@ Layer(2 "solder" "copper")
 	)
 	Polygon("clearpoly")
 	(
-		[155.00mil 4975.00mil] [80.00mil 4975.00mil] [80.00mil 4895.00mil] [155.00mil 4895.00mil] 
+		[155.00mil 4475.00mil] [80.00mil 4475.00mil] [80.00mil 4395.00mil] [155.00mil 4395.00mil] 
 	)
 	Polygon("clearpoly")
 	(
@@ -2564,11 +2620,16 @@ Layer(2 "solder" "copper")
 	(
 		[125.00mil 4975.00mil] [575.00mil 4975.00mil] [575.00mil 4625.00mil] [125.00mil 4625.00mil] 
 	)
+	Polygon("clearpoly")
+	(
+		[155.00mil 4975.00mil] [80.00mil 4975.00mil] [80.00mil 4895.00mil] [155.00mil 4895.00mil] 
+	)
 )
 Layer(3 "outline" "outline")
 (
 	Line[250.00mil 500.00mil 80.00mil 500.00mil 10.00mil 20.00mil "clearline"]
 	Line[620.00mil 500.00mil 450.00mil 500.00mil 10.00mil 20.00mil "clearline"]
+	Line[620.00mil 100.00mil 80.00mil 100.00mil 10.00mil 20.00mil "clearline"]
 	Line[80.00mil 100.00mil 80.00mil 500.00mil 10.00mil 20.00mil "clearline"]
 	Line[620.00mil 500.00mil 620.00mil 100.00mil 10.00mil 20.00mil "clearline"]
 	Line[250.00mil 1000.00mil 80.00mil 1000.00mil 10.00mil 20.00mil "clearline"]
@@ -2624,7 +2685,6 @@ Layer(3 "outline" "outline")
 	Line[620.00mil 4600.00mil 450.00mil 4600.00mil 10.00mil 20.00mil "clearline"]
 	Line[80.00mil 4600.00mil 80.00mil 5000.00mil 10.00mil 20.00mil "clearline"]
 	Line[620.00mil 5000.00mil 620.00mil 4600.00mil 10.00mil 20.00mil "clearline"]
-	Line[620.00mil 100.00mil 80.00mil 100.00mil 10.00mil 20.00mil "clearline"]
 	Arc[450.00mil 550.00mil 50.00mil 50.00mil 10.00mil 20.00mil 0 90 "clearline"]
 	Arc[450.00mil 550.00mil 50.00mil 50.00mil 10.00mil 20.00mil 0 -90 "clearline"]
 	Arc[250.00mil 550.00mil 50.00mil 50.00mil 10.00mil 20.00mil 180 -90 "clearline"]
@@ -2664,26 +2724,26 @@ Layer(3 "outline" "outline")
 )
 Layer(4 "bottom silk" "silk")
 (
-	Text[215.00mil 390.00mil 0 77 "CKT-AP6320x" "clearline,onsolder"]
-	Text[310.00mil 330.00mil 0 77 "v1.0" "clearline,onsolder"]
-	Text[215.00mil 890.00mil 0 77 "CKT-AP6320x" "clearline,onsolder"]
-	Text[310.00mil 830.00mil 0 77 "v1.0" "clearline,onsolder"]
-	Text[215.00mil 1390.00mil 0 77 "CKT-AP6320x" "clearline,onsolder"]
-	Text[310.00mil 1330.00mil 0 77 "v1.0" "clearline,onsolder"]
-	Text[215.00mil 1890.00mil 0 77 "CKT-AP6320x" "clearline,onsolder"]
-	Text[310.00mil 1830.00mil 0 77 "v1.0" "clearline,onsolder"]
-	Text[215.00mil 2390.00mil 0 77 "CKT-AP6320x" "clearline,onsolder"]
-	Text[310.00mil 2330.00mil 0 77 "v1.0" "clearline,onsolder"]
-	Text[215.00mil 2890.00mil 0 77 "CKT-AP6320x" "clearline,onsolder"]
-	Text[310.00mil 2830.00mil 0 77 "v1.0" "clearline,onsolder"]
-	Text[215.00mil 3390.00mil 0 77 "CKT-AP6320x" "clearline,onsolder"]
-	Text[310.00mil 3330.00mil 0 77 "v1.0" "clearline,onsolder"]
-	Text[215.00mil 3890.00mil 0 77 "CKT-AP6320x" "clearline,onsolder"]
-	Text[310.00mil 3830.00mil 0 77 "v1.0" "clearline,onsolder"]
-	Text[215.00mil 4390.00mil 0 77 "CKT-AP6320x" "clearline,onsolder"]
-	Text[310.00mil 4330.00mil 0 77 "v1.0" "clearline,onsolder"]
-	Text[215.00mil 4890.00mil 0 77 "CKT-AP6320x" "clearline,onsolder"]
-	Text[310.00mil 4830.00mil 0 77 "v1.0" "clearline,onsolder"]
+	Text[490.00mil 345.00mil 2 77 "CKT-AP6320x" "clearline,onsolder"]
+	Text[400.00mil 285.00mil 2 77 "v1.0" "clearline,onsolder"]
+	Text[490.00mil 845.00mil 2 77 "CKT-AP6320x" "clearline,onsolder"]
+	Text[400.00mil 785.00mil 2 77 "v1.0" "clearline,onsolder"]
+	Text[490.00mil 1345.00mil 2 77 "CKT-AP6320x" "clearline,onsolder"]
+	Text[400.00mil 1285.00mil 2 77 "v1.0" "clearline,onsolder"]
+	Text[490.00mil 1845.00mil 2 77 "CKT-AP6320x" "clearline,onsolder"]
+	Text[400.00mil 1785.00mil 2 77 "v1.0" "clearline,onsolder"]
+	Text[490.00mil 2345.00mil 2 77 "CKT-AP6320x" "clearline,onsolder"]
+	Text[400.00mil 2285.00mil 2 77 "v1.0" "clearline,onsolder"]
+	Text[490.00mil 2845.00mil 2 77 "CKT-AP6320x" "clearline,onsolder"]
+	Text[400.00mil 2785.00mil 2 77 "v1.0" "clearline,onsolder"]
+	Text[490.00mil 3345.00mil 2 77 "CKT-AP6320x" "clearline,onsolder"]
+	Text[400.00mil 3285.00mil 2 77 "v1.0" "clearline,onsolder"]
+	Text[490.00mil 3845.00mil 2 77 "CKT-AP6320x" "clearline,onsolder"]
+	Text[400.00mil 3785.00mil 2 77 "v1.0" "clearline,onsolder"]
+	Text[490.00mil 4345.00mil 2 77 "CKT-AP6320x" "clearline,onsolder"]
+	Text[400.00mil 4285.00mil 2 77 "v1.0" "clearline,onsolder"]
+	Text[490.00mil 4845.00mil 2 77 "CKT-AP6320x" "clearline,onsolder"]
+	Text[400.00mil 4785.00mil 2 77 "v1.0" "clearline,onsolder"]
 )
 Layer(5 "top silk" "silk")
 (
