@@ -986,7 +986,7 @@ Layer(3 "outline" "outline")
 Layer(4 "bottom silk" "silk")
 (
 	Text[490.00mil 345.00mil 2 77 "CKT-AP6320x" "clearline,onsolder"]
-	Text[400.00mil 285.00mil 2 77 "v1.0" "clearline,onsolder"]
+	Text[400.00mil 285.00mil 2 77 "v1.1" "clearline,onsolder"]
 )
 Layer(5 "top silk" "silk")
 (
